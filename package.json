@@ -1,6 +1,6 @@
 {
   "name": "portfolioTemplate",
-  "homepage": "http://yuribenjamin.github.io/my-app",
+  "homepage": ".",
   "version": "2.0.0",
   "private": true,
   "dependencies": {
