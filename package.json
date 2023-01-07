@@ -1,5 +1,6 @@
 {
   "name": "portfolioTemplate",
+  "homepage": "http://yuribenjamin.github.io/my-app",
   "version": "2.0.0",
   "private": true,
   "dependencies": {
@@ -13,6 +14,7 @@
     "@testing-library/user-event": "^13.1.9",
     "ajv": "^8.11.0",
     "classnames": "^2.2.6",
+    "gh-pages": "^4.0.0",
     "install": "^0.13.0",
     "moment": "^2.29.4",
     "node-forge": ">=1.3.0",
@@ -28,6 +30,8 @@
     "typescript": "^4.7.4"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
