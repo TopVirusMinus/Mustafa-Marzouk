@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Mustafa-Marzouk/static/css/main.d99ed2cb.css",
-    "main.js": "/Mustafa-Marzouk/static/js/main.af878345.js",
-    "static/media/mock1.png": "/Mustafa-Marzouk/static/media/mock1.a98da555badabc796b49.png",
-    "static/media/self.png": "/Mustafa-Marzouk/static/media/self.e792ffcadd23dbddc7b1.png",
-    "static/media/mock2.png": "/Mustafa-Marzouk/static/media/mock2.9f5c99d6b5a5604ba851.png",
-    "static/media/mock3.png": "/Mustafa-Marzouk/static/media/mock3.7e10c3c2e75027ddfc69.png",
-    "static/media/mock4.png": "/Mustafa-Marzouk/static/media/mock4.72288783251edcf61bc1.png",
-    "index.html": "/Mustafa-Marzouk/index.html",
-    "main.d99ed2cb.css.map": "/Mustafa-Marzouk/static/css/main.d99ed2cb.css.map",
-    "main.af878345.js.map": "/Mustafa-Marzouk/static/js/main.af878345.js.map"
+    "main.css": "./static/css/main.d99ed2cb.css",
+    "main.js": "./static/js/main.d87a18d2.js",
+    "static/media/mock1.png": "./static/media/mock1.a98da555badabc796b49.png",
+    "static/media/self.png": "./static/media/self.e792ffcadd23dbddc7b1.png",
+    "static/media/mock2.png": "./static/media/mock2.9f5c99d6b5a5604ba851.png",
+    "static/media/mock3.png": "./static/media/mock3.7e10c3c2e75027ddfc69.png",
+    "static/media/mock4.png": "./static/media/mock4.72288783251edcf61bc1.png",
+    "index.html": "./index.html",
+    "main.d99ed2cb.css.map": "./static/css/main.d99ed2cb.css.map",
+    "main.d87a18d2.js.map": "./static/js/main.d87a18d2.js.map"
   },
   "entrypoints": [
     "static/css/main.d99ed2cb.css",
-    "static/js/main.af878345.js"
+    "static/js/main.d87a18d2.js"
   ]
 }
